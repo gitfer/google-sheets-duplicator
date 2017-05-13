@@ -5,7 +5,8 @@
   "main": "google-sheets-duplicator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "./node_modules/.bin/webpack --config webpack.config.js"
+    "build": "./node_modules/.bin/webpack --config webpack.config.js",
+    "build-simple": "./node_modules/.bin/babel --presets env google-sheets-duplicator.js -o dist/bundle.js"
   },
   "repository": {
     "type": "git",
