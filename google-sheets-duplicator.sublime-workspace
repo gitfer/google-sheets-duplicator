@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newSheet"
+			],
+			[
+				"dateR",
+				"dateRowRange"
+			],
+			[
+				"date",
+				"dateArray"
+			],
+			[
+				"dat",
+				"dateArray"
+			],
+			[
+				"getDa",
+				"getDateArray"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"old",
+				"oldYear"
+			],
+			[
+				"ol",
+				"oldYear"
+			],
+			[
+				"Spe",
+				"SpreadsheetApp"
+			],
+			[
+				"node",
+				"node_modules"
+			],
+			[
+				"sta",
+				"state\tReact: this.state"
+			],
+			[
+				"my",
+				"myCtrl"
+			],
+			[
+				"con",
+				"controllers"
+			],
+			[
+				"exe",
+				"excuteDownload"
+			],
+			[
+				"st",
+				"stderr"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"vide",
+				"videoString"
+			],
+			[
+				"vi",
+				"videoString"
+			],
+			[
+				"vid",
+				"videoString"
+			],
+			[
+				"pa",
+				"pageToken"
+			],
+			[
+				"youT",
+				"YouTube"
+			],
+			[
+				"vie",
+				"videosCount"
+			],
+			[
+				"myC",
+				"myCroppedImage"
+			],
+			[
+				"sho",
+				"showModal"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "google-sheets-duplicator.js",
+			"settings":
+			{
+				"buffer_size": 3204,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Enable Package"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 211.0,
+		"history":
+		[
+			"clear();",
+			"clear",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ù",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/fede/Sviluppo/google-sheets-duplicator",
+		"/home/fede/Sviluppo/google-sheets-duplicator/dist"
+	],
+	"file_history":
+	[
+		"/home/fede/Sviluppo/submitter/src/App.js",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/User/ESLint-Formatter.sublime-settings",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/Babel/Babel.sublime-settings",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/User/Babel.sublime-settings",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/User/ESLint.sublime-settings",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/ESLint/ESLint.sublime-settings",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/fede/Sviluppo/google-sheets-duplicator/google-sheets-duplicator.js",
+		"/home/fede/Sviluppo/google-sheets-duplicator/webpack.config.js",
+		"/home/fede/Sviluppo/google-sheets-duplicator/package.json",
+		"/home/fede/Sviluppo/google-sheets-duplicator/.babelrc",
+		"/home/fede/Sviluppo/google-sheets-duplicator/.eslintrc.js",
+		"/home/fede/Sviluppo/google-sheets-duplicator/dist/bundle.js",
+		"/home/fede/Sviluppo/google-sheets-duplicator/README.md",
+		"/home/fede/Sviluppo/google-sheets-duplicator/node_modules/lodash/_reEscape.js",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/ESLint-Formatter/ESLint-Formatter.sublime-settings",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/LPrint/README.rst",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/ESLintAutoFix/ESLintAutoFix.sublime-settings",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/User/ESLintAutoFix.sublime-settings",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/ESLintAutoFix/Default (Linux).sublime-keymap",
+		"/home/fede/Sviluppo/corsoasa/Chiarini.txt",
+		"/home/fede/Sviluppo/react-tic-tac-toe/src/Board.js",
+		"/home/fede/Sviluppo/react-tic-tac-toe/src/Square.js",
+		"/home/fede/Sviluppo/react-tic-tac-toe/src/App.js",
+		"/home/fede/Sviluppo/react-tic-tac-toe/src/Game.js",
+		"/home/fede/Sviluppo/react-tic-tac-toe/src/index.js",
+		"/home/fede/Sviluppo/react-tic-tac-toe/src/TicTacToe.css",
+		"/home/fede/Sviluppo/SublimeText3Settings/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/fede/Sviluppo/webpack_test/src/index.js",
+		"/home/fede/Sviluppo/webpack_test/src/services/sumService.js",
+		"/home/fede/Sviluppo/webpack_test/src/services/multiplyService.js",
+		"/home/fede/Sviluppo/webpack_test/webpack_requires/controllers.js",
+		"/home/fede/Sviluppo/webpack_test/src/controllers/myCtrl.js",
+		"/home/fede/Sviluppo/webpack_test/webpack.config.js",
+		"/home/fede/Sviluppo/test/gruntfile.js",
+		"/home/fede/Sviluppo/test/index.html",
+		"/home/fede/Sviluppo/test/sass/mystyle.scss",
+		"/home/fede/Sviluppo/test/sass/mystyle.css",
+		"/home/fede/Sviluppo/test/grunfile.js",
+		"/home/fede/Sviluppo/yt_musicmanager/yt_musicmanager.js",
+		"/home/fede/Sviluppo/yt_musicmanager/get-playlist-items.js",
+		"/home/fede/Sviluppo/crop_image/index.html",
+		"/home/fede/Sviluppo/crop_image/main.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dateRowsCount",
+			"Logger",
+			"newMonthPos",
+			"mesi",
+			"addDays",
+			"creaNuovoMese",
+			"padLeft",
+			"onOpen",
+			"SpreadsheetApp",
+			";\n",
+			"===================================================",
+			"*) Teoria del bisogno (Maslow)",
+			"========",
+			"===========",
+			"========",
+			"Disfal",
+			"arx-form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"newMonthIndex",
+			"months",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "google-sheets-duplicator.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								557,
+								557
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 380.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "google-sheets-duplicator.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"r",
+				"google-sheets-duplicator/README.md"
+			],
+			[
+				"re",
+				"google-sheets-duplicator/node_modules/lodash/_reEscape.js"
+			],
+			[
+				"goo",
+				"google-sheets-duplicator/google-sheets-duplicator.js"
+			],
+			[
+				"boar",
+				"src/Board.js"
+			],
+			[
+				"inde",
+				"src/index.js"
+			],
+			[
+				"gam",
+				"src/Game.js"
+			],
+			[
+				"app",
+				"src/App.js"
+			],
+			[
+				"sq",
+				"src/Square.js"
+			],
+			[
+				"mys",
+				"sass/mystyle.css"
+			],
+			[
+				"yt_",
+				"yt_musicmanager.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sviluppo/submitter/submitter.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
